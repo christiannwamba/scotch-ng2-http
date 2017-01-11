@@ -1,4 +1,4 @@
-/* * * ./app/comments/model/comment.ts * * */
+/* * * ./app/Comments/Model/comment.ts * * */
 export class Comment {
     constructor(
         public id: Date, 
