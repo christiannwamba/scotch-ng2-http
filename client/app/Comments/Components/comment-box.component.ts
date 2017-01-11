@@ -1,9 +1,9 @@
-/* * * ./app/comments/components/comment-box.component.ts * * */
+/* * * ./app/Comments/components/comment-box.component.ts * * */
 // Imports
 import { Component, Input, Output, EventEmitter } from '@angular/core';
-import { Comment } from '../model/comment'
+import { Comment } from '../Model/comment'
 import { EmitterService } from '../../emitter.service';
-import { CommentService } from '../services/comment.service';
+import { CommentService } from '../Services/comment.service';
 
 // Component decorator
 @Component({

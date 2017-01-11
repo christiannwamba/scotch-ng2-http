@@ -1,8 +1,8 @@
-/* * * ./app/comments/services/comment.service.ts * * */
+/* * * ./app/Comments/services/comment.service.ts * * */
 // Imports
 import { Injectable }     from '@angular/core';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
-import { Comment }           from '../model/comment';
+import { Comment }           from '../Model/comment';
 import {Observable} from 'rxjs/Rx';
 
 // Import RxJs required methods

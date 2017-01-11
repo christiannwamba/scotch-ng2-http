@@ -1,4 +1,4 @@
-/* * * ./app/comments/app.component.ts * * */
+/* * * ./app/Comments/app.component.ts * * */
 // Imports
 import { Component } from '@angular/core';
 

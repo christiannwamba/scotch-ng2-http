@@ -1,11 +1,11 @@
-/* * * ./app/comments/components/comment-list.component.ts * * */
+/* * * ./app/Comments/components/comment-list.component.ts * * */
 // Imports
 import { Component, OnInit, Input, OnChanges } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 
 
-import { Comment } from '../model/comment';
-import {CommentService} from '../services/comment.service';
+import { Comment } from '../Model/comment';
+import {CommentService} from '../Services/comment.service';
 import { EmitterService } from '../../emitter.service';
 
 // Component decorator
